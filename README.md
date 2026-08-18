@@ -1,2 +1,2 @@
-# site-pr-prio
+# site proprio
 Site criado por mim
